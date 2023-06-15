@@ -1,0 +1,11 @@
+bootstrapped-0.0.2
+imbalanced-learn-0.9.1
+imblearn-0.0
+scikit-learn-1.1.2
+pandas==1.2.4
+numpy==1.18.1
+matplotlib==3.2.2
+seaborn==0.11.1
+beautifultable==1.1.0
+scipy==1.6.2
+glob2==0.7
